@@ -90,7 +90,7 @@ footer{
 <section class="hero">
     <h2>Admin Resmi Jual Beli Akun Game</h2>
     <p>Melayani jual beli akun game semua platform dengan sistem aman, cepat, dan terpercaya.</p>
-    <a class="btn-wa" href="https://wa.me/6282171397215" target="_blank">
+    <a class="btn-wa" href="https://wa.me/628817716064" target="_blank">
         Hubungi Admin via WhatsApp
     </a>
 </section>
